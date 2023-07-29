@@ -65,9 +65,9 @@ const PainterSection = () => {
     <div className={classes.root}>
       <div className={classes.content}>
         <FormControl fullWidth size="small" variant="outlined">
-          <InputLabel>Selected campaign</InputLabel>
+          <InputLabel>Chiến dịch đã chọn</InputLabel>
           <Select
-            label="Selected campaign"
+            label="Chiến dịch đã chọn"
             value={selectedCampaign}
             onChange={(e) => setSelectedCampaign(e.target.value as string)}
           >
@@ -82,18 +82,18 @@ const PainterSection = () => {
           value={selectedFaction}
           options={factionOptions}
           onChange={(e, option) => setSelectedFaction(option ?? null)}
-          label="Selected faction"
-          placeholder="Abandoned"
+          label="Phe phái đã chọn"
+          placeholder="Bỏ chọn"
           helperText="No faction selected abandons region."
         />
       </div>
       <Divider />
-      <List subheader={<ListSubheader disableSticky>Actions</ListSubheader>}>
+      <List subheader={<ListSubheader disableSticky>Hành động</ListSubheader>}>
         <ListItem dense button onClick={() => setOwnership(presets['clear'])}>
-          <ListItemText primary={'Clear map'} />
+          <ListItemText primary={'Clear bản đồ'} />
         </ListItem>
         <ListItem dense button onClick={() => setOwnership(presets[selectedCampaign])}>
-          <ListItemText primary={'Reset map'} />
+          <ListItemText primary={'Reset bản đồ'} />
         </ListItem>
       </List>
       <Divider />
@@ -121,7 +121,7 @@ const PainterSection = () => {
             fileInput.click();
           }}
         >
-          <ListItemText primary={'Import'} secondary={'Click here to import a map file'} />
+          <ListItemText primary={'Nhập'} secondary={'Click vào đây để nhập 1 map file'} />
         </ListItem>
         <ListItem
           dense
@@ -134,17 +134,17 @@ const PainterSection = () => {
             a.click();
           }}
         >
-          <ListItemText primary={'Export'} secondary={'Click here to export a map file'} />
+          <ListItemText primary={'Xuất'} secondary={'Click vào đây để xuất 1 map file'} />
         </ListItem>
       </List>
       <Divider />
       {Object.values(overlays).length === 3 && (
-        <List subheader={<ListSubheader disableSticky>Layers</ListSubheader>}>
+        <List subheader={<ListSubheader disableSticky>Lớp bản đồ</ListSubheader>}>
           <ListItem dense button onClick={() => selectOverlay('painter.ownership')}>
             <ListItemIcon>
               <Layers />
             </ListItemIcon>
-            <ListItemText primary={'Ownership'} />
+            <ListItemText primary={'Chủ sở hữu'} />
             <ListItemSecondaryAction>
               <Radio
                 color="primary"
@@ -157,7 +157,7 @@ const PainterSection = () => {
             <ListItemIcon>
               <Layers />
             </ListItemIcon>
-            <ListItemText primary={'Resources'} />
+            <ListItemText primary={'Tài nguyên'} />
             <ListItemSecondaryAction>
               <Radio
                 color="primary"
@@ -170,7 +170,7 @@ const PainterSection = () => {
             <ListItemIcon>
               <Layers />
             </ListItemIcon>
-            <ListItemText primary={'Settlements'} />
+            <ListItemText primary={'Địa điểm định cư'} />
             <ListItemSecondaryAction>
               <Radio
                 color="primary"

@@ -17,12 +17,12 @@
   },
   "3k_dlc06_hangu_pass": {
     "key": "3k_dlc06_hangu_pass",
-    "name": "Hangu Pass",
+    "name": "Hàm Cốc Quan",
     "isCapital": true,
     "icon": "gate_pass",
     "province": {
       "key": "3k_dlc06_hangu_pass",
-      "name": "Hangu Pass"
+      "name": "Hàm Cốc Quan"
     },
     "settlement": {
       "x": 1657,
@@ -33,12 +33,12 @@
   },
   "3k_dlc06_hedong_resource_2": {
     "key": "3k_dlc06_hedong_resource_2",
-    "name": "Pingyang",
+    "name": "Bình Dương",
     "isCapital": false,
     "icon": "iron",
     "province": {
       "key": "3k_main_hedong_capital",
-      "name": "Hedong"
+      "name": "Hà Đông"
     },
     "settlement": {
       "x": 1601,
@@ -49,12 +49,12 @@
   },
   "3k_dlc06_hulao_pass": {
     "key": "3k_dlc06_hulao_pass",
-    "name": "Hulao Pass",
+    "name": "Hổ Lao Quan",
     "isCapital": true,
     "icon": "gate_pass",
     "province": {
       "key": "3k_dlc06_hulao_pass",
-      "name": "Hulao Pass"
+      "name": "Hổ Lao Quan"
     },
     "settlement": {
       "x": 2019,
@@ -65,12 +65,12 @@
   },
   "3k_dlc06_jiameng_pass": {
     "key": "3k_dlc06_jiameng_pass",
-    "name": "Jiameng Pass",
+    "name": "Gia Mạnh Quan",
     "isCapital": true,
     "icon": "gate_pass",
     "province": {
       "key": "3k_dlc06_jiameng_pass",
-      "name": "Jiameng Pass"
+      "name": "Gia Mạnh Quan"
     },
     "settlement": {
       "x": 1003,
@@ -81,12 +81,12 @@
   },
   "3k_dlc06_jianning_resource_3": {
     "key": "3k_dlc06_jianning_resource_3",
-    "name": "Dianchi",
+    "name": "Điền trì",
     "isCapital": false,
     "icon": "copper",
     "province": {
       "key": "3k_main_jianning_capital",
-      "name": "Jianning"
+      "name": "Kiến Ninh"
     },
     "settlement": {
       "x": 629,
@@ -97,12 +97,12 @@
   },
   "3k_dlc06_jiaozhi_resource_3": {
     "key": "3k_dlc06_jiaozhi_resource_3",
-    "name": "Wanwen",
+    "name": "Vạn Văn",
     "isCapital": false,
     "icon": "lumber",
     "province": {
       "key": "3k_main_jiaozhi_capital",
-      "name": "Jiaozhi"
+      "name": "Giao Chỉ"
     },
     "settlement": {
       "x": 977,
@@ -113,12 +113,12 @@
   },
   "3k_dlc06_jiuzhen_capital": {
     "key": "3k_dlc06_jiuzhen_capital",
-    "name": "Xupu",
+    "name": "Tự Phố",
     "isCapital": true,
     "icon": "city",
     "province": {
       "key": "3k_dlc06_jiuzhen_capital",
-      "name": "Jiuzhen"
+      "name": "Cửu Chân"
     },
     "settlement": {
       "x": 990,
@@ -129,12 +129,12 @@
   },
   "3k_dlc06_jiuzhen_resource_1": {
     "key": "3k_dlc06_jiuzhen_resource_1",
-    "name": "Rinan",
+    "name": "Nhật Nam",
     "isCapital": false,
     "icon": "lumber",
     "province": {
       "key": "3k_dlc06_jiuzhen_capital",
-      "name": "Jiuzhen"
+      "name": "Cửu Chân"
     },
     "settlement": {
       "x": 999,
@@ -145,12 +145,12 @@
   },
   "3k_dlc06_kui_pass": {
     "key": "3k_dlc06_kui_pass",
-    "name": "Kui Pass",
+    "name": "Quỳ Môn Quan",
     "isCapital": true,
     "icon": "gate_pass",
     "province": {
       "key": "3k_dlc06_kui_pass",
-      "name": "Kui Pass"
+      "name": "Quỳ Môn Quan"
     },
     "settlement": {
       "x": 1498,
@@ -161,12 +161,12 @@
   },
   "3k_dlc06_liaodong_capital": {
     "key": "3k_dlc06_liaodong_capital",
-    "name": "Xiangping",
+    "name": "Tường Bình",
     "isCapital": true,
     "icon": "city",
     "province": {
       "key": "3k_dlc06_liaodong_capital",
-      "name": "Liaodong"
+      "name": "Liêu Đông"
     },
     "settlement": {
       "x": 2833,
@@ -177,12 +177,12 @@
   },
   "3k_dlc06_liaodong_resource_1": {
     "key": "3k_dlc06_liaodong_resource_1",
-    "name": "Xuantu",
+    "name": "Huyền Thổ",
     "isCapital": false,
     "icon": "lumber",
     "province": {
       "key": "3k_dlc06_liaodong_capital",
-      "name": "Liaodong"
+      "name": "Liêu Đông"
     },
     "settlement": {
       "x": 2742,
@@ -193,12 +193,12 @@
   },
   "3k_dlc06_qi_pass": {
     "key": "3k_dlc06_qi_pass",
-    "name": "Qi Pass",
+    "name": "Tề Quan",
     "isCapital": true,
     "icon": "gate_pass",
     "province": {
       "key": "3k_dlc06_qi_pass",
-      "name": "Qi Pass"
+      "name": "Tề Quan"
     },
     "settlement": {
       "x": 1700,
@@ -209,12 +209,12 @@
   },
   "3k_dlc06_san_pass": {
     "key": "3k_dlc06_san_pass",
-    "name": "San Pass",
+    "name": "Đại Tán Quan",
     "isCapital": true,
     "icon": "gate_pass",
     "province": {
       "key": "3k_dlc06_san_pass",
-      "name": "San Pass"
+      "name": "Đại Tán Quan"
     },
     "settlement": {
       "x": 1141,
@@ -225,12 +225,12 @@
   },
   "3k_dlc06_shangdang_resource_2": {
     "key": "3k_dlc06_shangdang_resource_2",
-    "name": "Zhixian",
+    "name": "Tri Huyện",
     "isCapital": false,
     "icon": "farms",
     "province": {
       "key": "3k_main_shangdang_capital",
-      "name": "Shangdang"
+      "name": "Thượng Đảng"
     },
     "settlement": {
       "x": 1868,
@@ -241,12 +241,12 @@
   },
   "3k_dlc06_tong_pass": {
     "key": "3k_dlc06_tong_pass",
-    "name": "Tong Pass",
+    "name": "Đồng Quan",
     "isCapital": true,
     "icon": "gate_pass",
     "province": {
       "key": "3k_dlc06_tong_pass",
-      "name": "Tong Pass"
+      "name": "Đồng Quan"
     },
     "settlement": {
       "x": 1481,
@@ -257,12 +257,12 @@
   },
   "3k_dlc06_wu_pass": {
     "key": "3k_dlc06_wu_pass",
-    "name": "Wu Pass",
+    "name": "Vũ Quan",
     "isCapital": true,
     "icon": "gate_pass",
     "province": {
       "key": "3k_dlc06_wu_pass",
-      "name": "Wu Pass"
+      "name": "Vũ Quan"
     },
     "settlement": {
       "x": 1446,
@@ -273,12 +273,12 @@
   },
   "3k_dlc06_xiapi_capital": {
     "key": "3k_dlc06_xiapi_capital",
-    "name": "Xiapi",
+    "name": "Hạ Bì",
     "isCapital": true,
     "icon": "city",
     "province": {
       "key": "3k_dlc06_xiapi_capital",
-      "name": "Xiapi"
+      "name": "Hạ Bì"
     },
     "settlement": {
       "x": 2394,
@@ -294,7 +294,7 @@
     "icon": "farms",
     "province": {
       "key": "3k_dlc06_xiapi_capital",
-      "name": "Xiapi"
+      "name": "Hạ Bì"
     },
     "settlement": {
       "x": 2402,
@@ -310,7 +310,7 @@
     "icon": "city",
     "province": {
       "key": "3k_dlc06_yongchang_capital",
-      "name": "Yongchang"
+      "name": "Vĩnh Xương"
     },
     "settlement": {
       "x": 293,
@@ -326,7 +326,7 @@
     "icon": "spice",
     "province": {
       "key": "3k_dlc06_yongchang_capital",
-      "name": "Yongchang"
+      "name": "Vĩnh Xương"
     },
     "settlement": {
       "x": 491,
@@ -337,12 +337,12 @@
   },
   "3k_dlc06_yunnan_capital": {
     "key": "3k_dlc06_yunnan_capital",
-    "name": "Longdong",
+    "name": "Long Động",
     "isCapital": true,
     "icon": "city",
     "province": {
       "key": "3k_dlc06_yunnan_capital",
-      "name": "Yunnan"
+      "name": "Vân Nam"
     },
     "settlement": {
       "x": 409,
@@ -358,7 +358,7 @@
     "icon": "iron",
     "province": {
       "key": "3k_dlc06_yunnan_capital",
-      "name": "Yunnan"
+      "name": "Vân Nam"
     },
     "settlement": {
       "x": 530,
@@ -369,12 +369,12 @@
   },
   "3k_dlc06_yunnan_resource_2": {
     "key": "3k_dlc06_yunnan_resource_2",
-    "name": "Yuexi",
+    "name": "Việt Tây",
     "isCapital": false,
     "icon": "lumber",
     "province": {
       "key": "3k_dlc06_yunnan_capital",
-      "name": "Yunnan"
+      "name": "Vân Nam"
     },
     "settlement": {
       "x": 555,
@@ -385,12 +385,12 @@
   },
   "3k_main_anding_capital": {
     "key": "3k_main_anding_capital",
-    "name": "Linjing",
+    "name": "Lâm Kinh",
     "isCapital": true,
     "icon": "city",
     "province": {
       "key": "3k_main_anding_capital",
-      "name": "Anding"
+      "name": "An Định"
     },
     "settlement": {
       "x": 1184,
@@ -401,12 +401,12 @@
   },
   "3k_main_anding_resource_1": {
     "key": "3k_main_anding_resource_1",
-    "name": "Gaonu",
+    "name": "Cao Nô",
     "isCapital": false,
     "icon": "farms",
     "province": {
       "key": "3k_main_anding_capital",
-      "name": "Anding"
+      "name": "An Định"
     },
     "settlement": {
       "x": 1378,
@@ -422,7 +422,7 @@
     "icon": "tools",
     "province": {
       "key": "3k_main_anding_capital",
-      "name": "Anding"
+      "name": "An Định"
     },
     "settlement": {
       "x": 1197,
@@ -433,12 +433,12 @@
   },
   "3k_main_anding_resource_3": {
     "key": "3k_main_anding_resource_3",
-    "name": "Sanshui",
+    "name": "Tam Thuỷ",
     "isCapital": false,
     "icon": "livestock",
     "province": {
       "key": "3k_main_anding_capital",
-      "name": "Anding"
+      "name": "An Định"
     },
     "settlement": {
       "x": 1037,
@@ -449,12 +449,12 @@
   },
   "3k_main_anping_capital": {
     "key": "3k_main_anping_capital",
-    "name": "Xindu",
+    "name": "Tân Đô",
     "isCapital": true,
     "icon": "city",
     "province": {
       "key": "3k_main_anping_capital",
-      "name": "Anping"
+      "name": "An Bình"
     },
     "settlement": {
       "x": 2114,
@@ -465,12 +465,12 @@
   },
   "3k_main_anping_resource_1": {
     "key": "3k_main_anping_resource_1",
-    "name": "Julu",
+    "name": "Cự Lộc",
     "isCapital": false,
     "icon": "farms",
     "province": {
       "key": "3k_main_anping_capital",
-      "name": "Anping"
+      "name": "An Bình"
     },
     "settlement": {
       "x": 1976,
@@ -486,7 +486,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_badong_capital",
-      "name": "Badong"
+      "name": "Ba Đông"
     },
     "settlement": {
       "x": 1494,
@@ -502,7 +502,7 @@
     "icon": "iron",
     "province": {
       "key": "3k_main_badong_capital",
-      "name": "Badong"
+      "name": "Ba Đông"
     },
     "settlement": {
       "x": 1339,
@@ -518,7 +518,7 @@
     "icon": "lumber",
     "province": {
       "key": "3k_main_badong_capital",
-      "name": "Badong"
+      "name": "Ba Đông"
     },
     "settlement": {
       "x": 1640,
@@ -534,7 +534,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_bajun_capital",
-      "name": "Ba"
+      "name": "Ba Quận"
     },
     "settlement": {
       "x": 1076,
@@ -550,7 +550,7 @@
     "icon": "farms",
     "province": {
       "key": "3k_main_bajun_capital",
-      "name": "Ba"
+      "name": "Ba Quận"
     },
     "settlement": {
       "x": 1205,
@@ -566,7 +566,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_baxi_capital",
-      "name": "Baxi"
+      "name": "Ba Tây"
     },
     "settlement": {
       "x": 1037,
@@ -582,7 +582,7 @@
     "icon": "tools",
     "province": {
       "key": "3k_main_baxi_capital",
-      "name": "Baxi"
+      "name": "Ba Tây"
     },
     "settlement": {
       "x": 1162,
@@ -598,7 +598,7 @@
     "icon": "farms",
     "province": {
       "key": "3k_main_baxi_capital",
-      "name": "Baxi"
+      "name": "Ba Tây"
     },
     "settlement": {
       "x": 861,
@@ -646,7 +646,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_bohai_capital",
-      "name": "Bohai"
+      "name": "Bột Hải"
     },
     "settlement": {
       "x": 2204,
@@ -662,7 +662,7 @@
     "icon": "fish",
     "province": {
       "key": "3k_main_bohai_capital",
-      "name": "Bohai"
+      "name": "Bột Hải"
     },
     "settlement": {
       "x": 2303,
@@ -838,7 +838,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_chengdu_capital",
-      "name": "Shu"
+      "name": "Thục Quận"
     },
     "settlement": {
       "x": 749,
@@ -854,7 +854,7 @@
     "icon": "craftsmen_armour",
     "province": {
       "key": "3k_main_chengdu_capital",
-      "name": "Shu"
+      "name": "Thục Quận"
     },
     "settlement": {
       "x": 629,
@@ -870,7 +870,7 @@
     "icon": "farms",
     "province": {
       "key": "3k_main_chengdu_capital",
-      "name": "Shu"
+      "name": "Thục Quận"
     },
     "settlement": {
       "x": 951,
@@ -886,7 +886,7 @@
     "icon": "salt",
     "province": {
       "key": "3k_main_chengdu_capital",
-      "name": "Shu"
+      "name": "Thục Quận"
     },
     "settlement": {
       "x": 848,
@@ -966,7 +966,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_daijun_capital",
-      "name": "Dai"
+      "name": "Đại Quận"
     },
     "settlement": {
       "x": 2036,
@@ -982,7 +982,7 @@
     "icon": "horses",
     "province": {
       "key": "3k_main_daijun_capital",
-      "name": "Dai"
+      "name": "Đại Quận"
     },
     "settlement": {
       "x": 2144,
@@ -1270,7 +1270,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_hedong_capital",
-      "name": "Hedong"
+      "name": "Hà Đông"
     },
     "settlement": {
       "x": 1554,
@@ -1286,7 +1286,7 @@
     "icon": "trade_port",
     "province": {
       "key": "3k_main_hedong_capital",
-      "name": "Hedong"
+      "name": "Hà Đông"
     },
     "settlement": {
       "x": 1481,
@@ -1526,7 +1526,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_jianning_capital",
-      "name": "Jianning"
+      "name": "Kiến Ninh"
     },
     "settlement": {
       "x": 728,
@@ -1542,7 +1542,7 @@
     "icon": "iron",
     "province": {
       "key": "3k_main_jianning_capital",
-      "name": "Jianning"
+      "name": "Kiến Ninh"
     },
     "settlement": {
       "x": 822,
@@ -1558,7 +1558,7 @@
     "icon": "spice",
     "province": {
       "key": "3k_main_jianning_capital",
-      "name": "Jianning"
+      "name": "Kiến Ninh"
     },
     "settlement": {
       "x": 775,
@@ -1622,7 +1622,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_jiaozhi_capital",
-      "name": "Jiaozhi"
+      "name": "Giao Chỉ"
     },
     "settlement": {
       "x": 1072,
@@ -1638,7 +1638,7 @@
     "icon": "farms",
     "province": {
       "key": "3k_main_jiaozhi_capital",
-      "name": "Jiaozhi"
+      "name": "Giao Chỉ"
     },
     "settlement": {
       "x": 1192,
@@ -1654,7 +1654,7 @@
     "icon": "tea",
     "province": {
       "key": "3k_main_jiaozhi_capital",
-      "name": "Jiaozhi"
+      "name": "Giao Chỉ"
     },
     "settlement": {
       "x": 930,
@@ -2246,7 +2246,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_shangdang_capital",
-      "name": "Shangdang"
+      "name": "Thượng Đảng"
     },
     "settlement": {
       "x": 1731,
@@ -2262,7 +2262,7 @@
     "icon": "farms",
     "province": {
       "key": "3k_main_shangdang_capital",
-      "name": "Shangdang"
+      "name": "Thượng Đảng"
     },
     "settlement": {
       "x": 1855,
@@ -2422,7 +2422,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_taiyuan_capital",
-      "name": "Taiyuan"
+      "name": "Thái Nguyên"
     },
     "settlement": {
       "x": 1713,
@@ -2438,7 +2438,7 @@
     "icon": "iron",
     "province": {
       "key": "3k_main_taiyuan_capital",
-      "name": "Taiyuan"
+      "name": "Thái Nguyên"
     },
     "settlement": {
       "x": 1821,
@@ -2454,7 +2454,7 @@
     "icon": "tools",
     "province": {
       "key": "3k_main_taiyuan_capital",
-      "name": "Taiyuan"
+      "name": "Thái Nguyên"
     },
     "settlement": {
       "x": 1679,
@@ -2710,7 +2710,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_xihe_capital",
-      "name": "Xihe"
+      "name": "Hà Tây"
     },
     "settlement": {
       "x": 1537,
@@ -2726,7 +2726,7 @@
     "icon": "fish",
     "province": {
       "key": "3k_main_xihe_capital",
-      "name": "Xihe"
+      "name": "Hà Tây"
     },
     "settlement": {
       "x": 1472,
@@ -2742,7 +2742,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_xindu_capital",
-      "name": "Xindu"
+      "name": "Tân Đô"
     },
     "settlement": {
       "x": 2544,
@@ -2758,7 +2758,7 @@
     "icon": "lumber",
     "province": {
       "key": "3k_main_xindu_capital",
-      "name": "Xindu"
+      "name": "Tân Đô"
     },
     "settlement": {
       "x": 2510,
@@ -2774,7 +2774,7 @@
     "icon": "fish",
     "province": {
       "key": "3k_main_xindu_capital",
-      "name": "Xindu"
+      "name": "Tân Đô"
     },
     "settlement": {
       "x": 2372,
@@ -2854,7 +2854,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_yanmen_capital",
-      "name": "Yanmen"
+      "name": "Nhạn môn"
     },
     "settlement": {
       "x": 1692,
@@ -2870,7 +2870,7 @@
     "icon": "lumber",
     "province": {
       "key": "3k_main_yanmen_capital",
-      "name": "Yanmen"
+      "name": "Nhạn môn"
     },
     "settlement": {
       "x": 1911,
@@ -2913,12 +2913,12 @@
   },
   "3k_main_yizhou_island_capital": {
     "key": "3k_main_yizhou_island_capital",
-    "name": "Danshui",
+    "name": "Đạm Thủy",
     "isCapital": true,
     "icon": "city",
     "province": {
       "key": "3k_main_yizhou_island_capital",
-      "name": "Yizhou"
+      "name": "Di Châu"
     },
     "settlement": {
       "x": 2854,
@@ -2934,7 +2934,7 @@
     "icon": "fish",
     "province": {
       "key": "3k_main_yizhou_island_capital",
-      "name": "Yizhou"
+      "name": "Di Châu"
     },
     "settlement": {
       "x": 2729,
@@ -2950,7 +2950,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_youbeiping_capital",
-      "name": "Youbeiping"
+      "name": "Bắc Bình"
     },
     "settlement": {
       "x": 2368,
@@ -2966,7 +2966,7 @@
     "icon": "trade_port",
     "province": {
       "key": "3k_main_youbeiping_capital",
-      "name": "Youbeiping"
+      "name": "Bắc Bình"
     },
     "settlement": {
       "x": 2536,
@@ -2982,7 +2982,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_youzhou_capital",
-      "name": "Guangyang"
+      "name": "U Châu"
     },
     "settlement": {
       "x": 2230,
@@ -2998,7 +2998,7 @@
     "icon": "iron",
     "province": {
       "key": "3k_main_youzhou_capital",
-      "name": "Guangyang"
+      "name": "U Châu"
     },
     "settlement": {
       "x": 2376,
@@ -3014,7 +3014,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_yu_capital",
-      "name": "Liaoxi"
+      "name": "Liêu Tây"
     },
     "settlement": {
       "x": 2622,
@@ -3030,7 +3030,7 @@
     "icon": "tools",
     "province": {
       "key": "3k_main_yu_capital",
-      "name": "Liaoxi"
+      "name": "Liêu Tây"
     },
     "settlement": {
       "x": 2505,
@@ -3190,7 +3190,7 @@
     "icon": "city",
     "province": {
       "key": "3k_main_zhongshan_capital",
-      "name": "Zhongshan"
+      "name": "Trung Sơn"
     },
     "settlement": {
       "x": 2045,
@@ -3206,7 +3206,7 @@
     "icon": "livestock",
     "province": {
       "key": "3k_main_zhongshan_capital",
-      "name": "Zhongshan"
+      "name": "Trung Sơn"
     },
     "settlement": {
       "x": 1916,

@@ -1,45 +1,45 @@
 {
   "app": {
-    "title": "Total War: THREE KINGDOMS",
-    "subtitle": "Interactive Maps"
+    "title": "Total War: TAM QUỐC DIỄN NGHĨA",
+    "subtitle": "Bản đồ tương tác"
   },
   "maps": {
-    "strategic": "Strategic",
-    "painter": "Painter",
-    "startpos": "Starting positions"
+    "strategic": "Chiến lược",
+    "painter": "Chia đất",
+    "startpos": "Vị trí bắt đầu"
   },
   "strategic": {
-    "search": "Search",
-    "searchPlaceholder": "Search by region, resource or character...",
-    "markerSectionTitle": "Map markers"
+    "search": "Tìm kiếm",
+    "searchPlaceholder": "Tìm kiếm theo khu vực, tài nguyên hoặc nhân vật...",
+    "markerSectionTitle": "Tạo bản đồ"
   },
   "startpos": {
-    "campaigns": "Campaigns"
+    "campaigns": "Chiến dịch"
   },
   "markers": {
-    "3k_dlc04_start_pos": "Mandate of Heaven",
-    "3k_dlc05_start_pos": "A World Betrayed",
-    "3k_main_campaign_map": "Rise of the Warlords",
-    "8p_start_pos": "Eight Princes",
-    "city": "Capital of the Commandery",
-    "copper": "Copper Mine",
-    "craftsmen_armour": "Armour Craftsmen",
-    "craftsmen_mounts": "Animal Tamer",
-    "craftsmen_weapon": "Weapon Craftsmen",
-    "farms": "Rice Paddy",
-    "fish": "Fishing Port",
-    "gate_pass": "Gate Pass",
-    "horses": "Northern Horses",
-    "iron": "Iron Mine",
-    "jade": "Jade Mine",
-    "livestock": "Livestock Farm",
-    "lumber": "Lumber Yard",
-    "salt": "Salt Mine",
-    "silk": "Silk Trader",
-    "spice": "Spice Trader",
-    "tea": "Teahouse",
-    "temple": "Temple of Pengcheng",
-    "tools": "Toolmaker",
-    "trade_port": "Trade Port"
+    "3k_dlc04_start_pos": "Chiếu chỉ thiên tử",
+    "3k_dlc05_start_pos": "Thiên hạ đại loạn",
+    "3k_main_campaign_map": "Sự trỗi dậy của chiến tranh",
+    "8p_start_pos": "Bát Vương",
+    "city": "Thủ phủ của Quận",
+    "copper": "Mỏ đồng",
+    "craftsmen_armour": "Thợ rèn giáp",
+    "craftsmen_mounts": "Thợ rèn trang bị ngựa",
+    "craftsmen_weapon": "Thợ rèn vũ khí",
+    "farms": "Đồng lúa",
+    "fish": "Cảng cá",
+    "gate_pass": "Cửa quan",
+    "horses": "Trại ngựa miền bắc",
+    "iron": "Mỏ sắt",
+    "jade": "Mỏ ngọc",
+    "livestock": "Trại chăn nuôi",
+    "lumber": "Xưởng gỗ",
+    "salt": "Mỏ muối",
+    "silk": "Nhà buôn lụa",
+    "spice": "Nhà buôn gia vị",
+    "tea": "Trà quán",
+    "temple": "Đền thờ Pengcheng",
+    "tools": "Xưởng công cụ",
+    "trade_port": "Thương cảng"
   }
 }
